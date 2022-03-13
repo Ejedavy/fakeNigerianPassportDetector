@@ -1,2 +1,2 @@
 # fakeNigerianPassportDetector
-This detects fake pan cards
+This detects fake nigerian passports
